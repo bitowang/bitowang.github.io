@@ -11,6 +11,8 @@ url: "http://bitowang.github.io"
 
 permalink: /:year/:month/:title/
 
+markdown: kramdown
+
 # Format
 highlighter: rouge
 
