@@ -3,7 +3,7 @@ title: bitowang
 subtitle: CiXie
 welcome_message: One Web, One World
 avatarTitle: Hello
-avatarDesc: ML / DL / RL 
+avatarDesc: NLP@ML/DL/RL/ETC
 description: a small and a big
 creator: bitowang
 
@@ -50,8 +50,9 @@ social:
     mail: bitowang@163.com
 # 百度统计
 baidu:
-    id:
+    id: 71f004c71d4d6830ee31d9dc50250d38
 # Google Analytics
 ga:
+    id: UA-117680567-1
     # id: your_ga_id
     # host: your_host
