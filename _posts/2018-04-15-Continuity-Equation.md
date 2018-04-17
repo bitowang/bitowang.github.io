@@ -7,7 +7,7 @@ tags: [流体力学,连续性方程,FM,Continuity Equation]
 description: 流体力学推导
 ---
 
-
+$m^2$
 # 基本概念
 ## [质量流量](https://baike.baidu.com/item/质量流量/5137923)
 - 概念 单位时间里流体通过封闭管道或敞开槽有效截面的流体质量
@@ -95,3 +95,4 @@ description: 流体力学推导
 
 
 # 方程不同形式的转化
+
