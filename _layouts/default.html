@@ -2,7 +2,11 @@
 <html>
 
   {% include head.html %}
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+  {% if page.use_math %}
+    {% include mathjaxhead.html %}
+  {% else %}
+    {% include head.html %}
+  {% endif %}
   <body>
     
     <span class="mobile btn-mobile-menu">
